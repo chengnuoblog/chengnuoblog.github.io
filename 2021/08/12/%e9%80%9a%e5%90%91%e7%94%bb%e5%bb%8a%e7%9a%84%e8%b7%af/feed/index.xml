@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	《通向画廊的路》的评论	</title>
+	<atom:link href="/2021/08/12/%E9%80%9A%E5%90%91%E7%94%BB%E5%BB%8A%E7%9A%84%E8%B7%AF/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/08/12/%e9%80%9a%e5%90%91%e7%94%bb%e5%bb%8a%e7%9a%84%e8%b7%af/</link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Aug 2021 08:36:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.6</generator>
+</channel>
+</rss>
