@@ -1,7 +1,7 @@
 <script type="text/javascript">   
 function password() {   
 var testV = 1;   
-var pass1 = prompt('请输入密码(本人班级学号','');   
+var pass1 = prompt('请输入密码(本人班级学号)','');   
 while (testV < 3) {   
 if (!pass1)   
 history.go(-1);   
@@ -14,7 +14,7 @@ var pass1 =
 prompt('密码错误!请重新输入:');   
 }   
 if (pass1!="password" & testV ==3)   
-window.opener=null; window.close();}  // 密码不正确就关闭  
+window.opener=null; window.close();  // 密码不正确就关闭  
 return " ";   
 }   
 document.write(password());   
