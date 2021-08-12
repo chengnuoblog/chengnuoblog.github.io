@@ -6,7 +6,7 @@ while (testV < 3) {
 if (!pass1)   
 history.go(-1);   
 if (pass1 == "181305") {//初始密码181305   
-alert('密码正确');   
+alert('欢迎');   
 break;   
 }   
 testV+=1;   
@@ -14,7 +14,7 @@ var pass1 =
 prompt('密码错误!请重新输入:');   
 }   
 if (testV ==3)   
-history.go(-1);
+ window.close();
 return " ";   
 }   
 document.write(password());   
